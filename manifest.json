@@ -1,0 +1,14 @@
+{
+  "author": "Ben Mills",
+  "platforms": {
+    "macos": {
+      "files": [
+        {
+          "source": "vimbundles/go",
+          "target": "$HOME/.vimbundles/go",
+          "operation": "symlink"
+        }
+      ]
+    }
+  }
+}
